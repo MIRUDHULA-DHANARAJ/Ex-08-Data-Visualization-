@@ -139,43 +139,55 @@ Box plot 1
 ![image](https://user-images.githubusercontent.com/94828147/203358089-5e327191-a8d8-4bce-80ec-55652b257d72.png)
 
 Bar plot
+
 ![image](https://user-images.githubusercontent.com/94828147/203358170-550aad90-7030-4e71-a03a-70122723d6f6.png)
 
 Point plot
+
 ![image](https://user-images.githubusercontent.com/94828147/203358246-0cc97e59-d057-4e46-ba0b-0f80930e6c89.png)
 
 Count plot
+
 ![image](https://user-images.githubusercontent.com/94828147/203358328-48368544-cc03-4c01-9d86-fb7e56fbf2cc.png)
 
 Histogram plot 1
+
 ![image](https://user-images.githubusercontent.com/94828147/203358386-361ed977-6f2f-4602-8a44-2c2d0c4ad59f.png)
 
 KDE plot
+
 ![image](https://user-images.githubusercontent.com/94828147/203358448-bf1bac38-a5f4-42af-a936-ed1ff9a5d51a.png)
 
 Data Visualization Using MatPlotlib
 
 Plot
+
 ![image](https://user-images.githubusercontent.com/94828147/203358575-17405bc4-4fc0-4c80-8bcf-e88c554e1d65.png)
 
 Heatmap
+
 ![image](https://user-images.githubusercontent.com/94828147/203358631-af4e9a84-35d9-4494-b6a2-547bb0051537.png)
 
 Pie chart
+
 ![image](https://user-images.githubusercontent.com/94828147/203358694-45eae67e-8f9b-48f9-8581-1a3f860b357f.png)
 
 ![image](https://user-images.githubusercontent.com/94828147/203358745-62f0b80d-42aa-4b10-b940-96d17ba494a9.png)
 
 Histogram plot 2
+
 ![image](https://user-images.githubusercontent.com/94828147/203358866-d8641c88-75d9-4274-bef5-40d1f96b62f6.png)
 
 Bar graph
+
 ![image](https://user-images.githubusercontent.com/94828147/203358911-f5c88e4b-9073-49c6-bdb6-825a1a37a586.png)
 
 Scatter plot 2
+
 ![image](https://user-images.githubusercontent.com/94828147/203358976-96b2f77f-2c43-4c98-9000-3ca2506ac828.png)
 
 Box plot 2
+
 ![image](https://user-images.githubusercontent.com/94828147/203359084-325e3ba2-fa05-4d8c-91e4-1bac09088697.png)
 
 ## RESULT:
